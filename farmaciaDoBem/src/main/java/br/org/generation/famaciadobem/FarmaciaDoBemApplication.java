@@ -1,13 +1,13 @@
-package br.org.generation.blogpessoal;
+package br.org.generation.famaciadobem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BlogpessoalApplication {
+public class FarmaciaDoBemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BlogpessoalApplication.class, args);
+		SpringApplication.run(FarmaciaDoBemApplication.class, args);
 	}
 
 }
